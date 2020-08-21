@@ -1,0 +1,14 @@
+
+> frontend@0.1.0 test /app
+> react-scripts test
+
+PASS src/App.test.js (15.56s)
+  ✓ renders learn react link (149ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        22.892s
+Ran all test suites.
+
+
